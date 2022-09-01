@@ -15,3 +15,4 @@ Task 13: We are symbols and inhabit symbols- Create a symbolic link to /bin/ls, 
 Task 14: Cop HTML file- Script that copies all the HTML files from the current working directory to the parent of the working directory
 Task 15: Lets Move- Script that moves all files beginning with an uppercase letter to the directory /tmp/u
 Task 16: Clean emacs- Script that deletes all files in the current working directory that end with the character ~
+Task 17: Tree-script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
