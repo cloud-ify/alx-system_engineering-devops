@@ -7,3 +7,4 @@ Task 5: Execute: script that adds execute permission to the owner of the file he
 Task 6: Multiple permisson: script that adds execute permission to the owner and the group owner, and read permission to other users, to the file
 Task 7: Everybody: script that adds execution permission to the owner, the group owner and the other users, to the file hello
 Task 8: James bond: script that sets the permission to the file hello to Owner: no permission at all, Group: no permission at all, Other users: all the permissions 
+Task 9: John doe:  script that sets the mode of the file
