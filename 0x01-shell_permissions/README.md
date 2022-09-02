@@ -11,3 +11,4 @@ Task 9: John doe:  script that sets the mode of the file
 Task 10: Look in the mirror: script that sets the mode of the file hello the same as olleh’s mode.
 Task 11: Directories: script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 Task 12: More directories: script that creates a directory called my_dir with permissions 751 in the working directory.
+Task 13: Change group: script that changes the group owner to school for the file hello
