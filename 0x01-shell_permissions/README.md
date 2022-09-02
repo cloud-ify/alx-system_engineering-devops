@@ -9,3 +9,4 @@ Task 7: Everybody: script that adds execution permission to the owner, the group
 Task 8: James bond: script that sets the permission to the file hello to Owner: no permission at all, Group: no permission at all, Other users: all the permissions 
 Task 9: John doe:  script that sets the mode of the file
 Task 10: Look in the mirror: script that sets the mode of the file hello the same as olleh’s mode.
+Task 11: Directories: script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
