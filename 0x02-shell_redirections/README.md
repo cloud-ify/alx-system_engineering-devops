@@ -9,3 +9,5 @@ Task 7: shell script that creates a file named exactly \*\\'"Best School"\'\\*$\
 Task 8: script that writes into the file ls_cwd_content the result of the command ls -la
 Task 9: script that duplicates the last line of the file
 Task 10: Script that deletes all the regular files (not the directories) with a .js extension
+Task 11: script that counts the number of directories and sub-directories in the current directory
+Task 12: aascript that displays the 10 newest files in the current directory.
