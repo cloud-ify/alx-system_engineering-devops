@@ -12,3 +12,4 @@ Task 10: Script that deletes all the regular files (not the directories) with a 
 Task 11: script that counts the number of directories and sub-directories in the current directory
 Task 12: aascript that displays the 10 newest files in the current directory.
 Task 13: script that takes a list of words as input and prints only words that appear exactly once.
+Task 14: script that Display lines containing the pattern “root” from the file /etc/passwd
